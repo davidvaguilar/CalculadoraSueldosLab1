@@ -15,7 +15,7 @@ namespace CalculadoraSueldosLab1
             int horas = 0;
             string opcion = "";
 
-            Console.WriteLine("Programa iniciado");
+            Console.WriteLine("Programa ejecutado");
 
             do
             {
